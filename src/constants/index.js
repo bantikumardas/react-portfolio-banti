@@ -102,7 +102,7 @@ export const PROJECTS = [
   {
     title: "Portfolio Website",
     link: "https://devhub-dev.netlify.app/login",
-    github: "https://github.com/username/project1",
+    github: "https://github.com/Aayushgupta24/react-portfolio-Aayush",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
