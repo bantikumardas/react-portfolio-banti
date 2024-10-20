@@ -61,7 +61,7 @@ const Technologies = () => {
               {[
                 "01. C/C++",
                 "02. DSA",
-                "03. Java",
+                // "03. Java",
                 "04. Python",
                 "05. JavaScript",
                 "06. MySQL",

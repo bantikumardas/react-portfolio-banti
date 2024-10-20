@@ -1,7 +1,6 @@
 import logo from "../assets/kevinRushLogo.png"; 
 import { FaLinkedin, FaGithub, FaTwitter, FaCode } from "react-icons/fa";
 import { SiGeeksforgeeks } from "react-icons/si";
-import { HiDocumentText } from "react-icons/hi"; // Importing a document icon for the resume
 
 const Navbar = () => {
   return ( 
@@ -25,17 +24,6 @@ const Navbar = () => {
         </a>
         <a href="https://leetcode.com/cap_America/" target="_blank" rel="noopener noreferrer" aria-label="CodeChef">
           <FaCode />
-        </a>
-        {/* Resume Button */}
-        <a 
-          href="https://drive.google.com/file/d/1ybo2nF20nUsrX9gv7wgO2zFQTyJTzlpl/view?usp=sharing" 
-          target="_blank" 
-          rel="noopener noreferrer" 
-          className="flex items-center"
-          aria-label="Resume"
-        >
-          <HiDocumentText className="w-6 h-6 mr-2" /> {/* Small resume icon */}
-          <span className="text-lg">Resume</span>
         </a>
       </div>
     </nav>

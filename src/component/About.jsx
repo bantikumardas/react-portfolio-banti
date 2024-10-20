@@ -1,4 +1,4 @@
-import aboutImg from "../assets/about1.jpg";
+import aboutImg from "../assets/about.jpg";
 import { ABOUT_TEXT } from "../constants";
 import { motion } from "framer-motion";
 
@@ -20,7 +20,7 @@ const About = () => {
             <img
               src={aboutImg}
               alt="about"
-              className="w-3/4 lg:w-1/2"  // Adjusted the image size here
+              className="w-4/5 lg:w-3/5"  // Adjusted the image size to be broader
             />
           </div>
         </motion.div>

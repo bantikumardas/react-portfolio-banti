@@ -48,7 +48,7 @@ export const EXPERIENCES = [
   {
     year: "2023 -  Present ",
     role: "Freelancing",
-    //company: "Paypal",
+    company: "Remote",
     description: `As a skilled Software Engineer with expertise in Full-Stack Development and a passion for Freelancing, I bring  1+ year of professional experience, focusing on delivering high-quality, scalable web applications. I specialize in working with the MERN stack (MongoDB, Express, React, NodeJS) and have deep knowledge of algorithms, data structures, and modern web technologies.`,
     technologies: [
       "Javascript",
