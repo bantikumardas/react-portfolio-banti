@@ -6,22 +6,30 @@ import project3 from "../assets/projects/project-3.jpg";
 export const HERO_CONTENT = `Hello, I am Aayush Kumar Gupta, a 2024 graduate from NIT Jamshedpur. I'm a passionate Software Engineer with 1+ year of experience in building robust, scalable web applications. My strong problem-solving skills and expertise in data structures and algorithms help me tackle complex challenges and create innovative solutions to drive business growth and enhance user experiences.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile Software Engineer with a passion for creating efficient and user-friendly web applications.
-  I have a strong foundation in problem-solving, evidenced by my 4-star rating on Codechef and a 1900+ rating on LeetCode, where I have solved over 1800 problems. 
-  My technical expertise includes full-stack development using the MERN stack, I have worked with a variety of technologies, including React.js, Node.js, Express.js, MySQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+  I have a strong foundation in problem-solving, evidenced by my 4-star rating on Codechef and a 1935+ rating on LeetCode, where I have solved over 2000 problems. 
+  My technical expertise includes full-stack development using the MERN stack, I have worked with a variety of technologies, including React.js, Node.js, Express.js, MySQL, MongoDB, System Design, REST API's, AWS. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 (May) - 2023 (July) ",
-    role: " Full Stack Developer",
-    company: "TechPyro",
-    description: ` Worked with Frontend team to implement user interfaces, ensuring smooth and responsive user experiences using
- JavaScript, and React, Redux.`,
+    year: "2024(december) -  Present ",
+    role: "Backend Engineer",
+    company: "FandomX",
+    description: `Designed and developed microservices and exposed functionalities as RESTful APIs.Worked with front-end web
+and mobile engineers to integrate mobile apps with backend APIs.
+ Produced quality deliverables and continuously improved backend engineering, architecture, and APIs using
+Node.js, Fastify, REST API concepts, MySQL, MongoDB, AWS.`,
     technologies: [
       "Javascript",
-      "React.js",
+      "MySQL",
       "Node.js",
       "mongoDB",
       "Express.js",
+      "Git",
+      "Fastify",
+      "REST API",
+      "AWS",
+      "System Design",
+      "Kafka",
     ],
   },
   {
@@ -44,23 +52,18 @@ export const EXPERIENCES = [
       "Typescript",
     ],
   },
-
   {
-    year: "2023 -  Present ",
-    role: "Freelancing",
-    company: "Remote",
-    description: `As a skilled Software Engineer with expertise in Full-Stack Development and a passion for Freelancing, I bring  1+ year of professional experience, focusing on delivering high-quality, scalable web applications. I specialize in working with the MERN stack (MongoDB, Express, React, NodeJS) and have deep knowledge of algorithms, data structures, and modern web technologies.`,
+    year: "2023 (May) - 2023 (July) ",
+    role: " Full Stack Developer",
+    company: "TechPyro",
+    description: ` Worked with Frontend team to implement user interfaces, ensuring smooth and responsive user experiences using
+ JavaScript, and React, Redux.`,
     technologies: [
       "Javascript",
       "React.js",
-      "MySQL",
       "Node.js",
       "mongoDB",
       "Express.js",
-
-      "Git",
-
-      "Typescript",
     ],
   },
 ];

@@ -61,11 +61,12 @@ const Technologies = () => {
               {[
                 "01. C/C++",
                 "02. DSA",
-                // "03. Java",
+                 "03. Java",
                 "04. Python",
                 "05. JavaScript",
                 "06. MySQL",
-                "07. MongoDB"
+                "07. MongoDB",
+                "08. Git & GitHub"
               ].map(skill => (
                 <motion.li 
                   key={skill}
@@ -82,13 +83,14 @@ const Technologies = () => {
             {/* Right column of skills */}
             <div className="space-y-4">
               {[
-                "08. HTML & CSS",
-                "09. ReactJS",
-                "10. ReduxJS",
-                "11. NodeJS",
-                "12. ExpressJS",
-                "13. Excel, PowerBI",
-                "14. Git & GitHub"
+                "09. HTML & CSS",
+                "10. ReactJS",
+                "11. ReduxJS",
+                "12. NodeJS",
+                "13. ExpressJS",   
+                "14. Kafka",
+                "15. Express.js",
+                "16. System Design"
               ].map(skill => (
                 <motion.li 
                   key={skill}
