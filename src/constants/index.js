@@ -8,63 +8,56 @@ export const HERO_CONTENT = `Hello, I am Aayush Kumar Gupta, a 2024 graduate fro
 export const ABOUT_TEXT = `I am a dedicated and versatile Software Engineer with a passion for creating efficient and user-friendly web applications.
   I have a strong foundation in problem-solving, evidenced by my 4-star rating on Codechef and a 1935+ rating on LeetCode, where I have solved over 2000 problems. 
   My technical expertise includes full-stack development using the MERN stack, I have worked with a variety of technologies, including React.js, Node.js, Express.js, MySQL, MongoDB, System Design, REST API's, AWS. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
-
 export const EXPERIENCES = [
   {
-    year: "2024(december) -  Present ",
-    role: "Backend Engineer",
-    company: "FandomX",
-    description: `Designed and developed microservices and exposed functionalities as RESTful APIs.Worked with front-end web
-and mobile engineers to integrate mobile apps with backend APIs.
- Produced quality deliverables and continuously improved backend engineering, architecture, and APIs using
-Node.js, Fastify, REST API concepts, MySQL, MongoDB, AWS.`,
+    year: "2025 (March) – Present",
+    role: "Full-stack Engineer",
+    company: "DBA Growth Pods",
+    description: `Developed and maintained CI/CD pipelines, transforming a monolithic architecture to microservices for improved scalability.
+  Optimized Jenkins pipelines for seamless microservices activation and enhanced deployment efficiency.
+  Developed an AI-powered co-pilot for a payroll application using OpenAI’s LLM, enhancing UX/UI through intelligent assistance.
+  Designed and developed microservices and exposed functionalities as RESTful APIs. Collaborated with front-end web and mobile engineers for API integration.
+  Produced quality backend deliverables using Node.js, Express.js, MongoDB, REST APIs, and AWS.`,
     technologies: [
-      "Javascript",
-      "MySQL",
       "Node.js",
-      "mongoDB",
       "Express.js",
-      "Git",
-      "Fastify",
       "REST API",
+      "MongoDB",
       "AWS",
+      "CI/CD",
+      "Jenkins",
+      "OpenAI API",
       "System Design",
-      "Kafka",
     ],
   },
   {
-    year: "2024 (February) - 2024 (September) ",
-    role: "Full Stack Developer",
+    year: "2024 (February) – 2025 (January)",
+    role: "Software Engineer",
     company: "TechPyro",
-    description: `Worked with the website team and collaborated with product managers to ship multiple new features.
-    Created a web app tool for legal professionals, enabling them to create custom SQL queries and filter records for
- documents such as trademarks and intellectual properties. The tool served as a super admin application.`,
+    description: `Produced comprehensive API documentation using Swagger, making information accessible for developers and stakeholders.
+  Authored 100+ REST API test cases, ensuring robust performance and system stability.
+  Enhanced CI/CD pipelines to streamline microservices deployment and user migration.
+  Contributed to over 10 Agile sprint cycles to drive continuous improvements.`,
     technologies: [
-      "Javascript",
-      "React.js",
-      "MySQL",
+      "Java",
+      "Spring Boot",
+      "Spring Cloud",
+      "JavaScript",
+      "TypeScript",
       "Node.js",
-      "mongoDB",
       "Express.js",
-
-      "Git",
-
-      "Typescript",
+      "MongoDB",
+      "React.js",
+      "Swagger",
     ],
   },
   {
-    year: "2023 (May) - 2023 (July) ",
-    role: " Full Stack Developer",
+    year: "2023 (May) – 2023 (July)",
+    role: "Software Engineer Intern",
     company: "TechPyro",
-    description: ` Worked with Frontend team to implement user interfaces, ensuring smooth and responsive user experiences using
- JavaScript, and React, Redux.`,
-    technologies: [
-      "Javascript",
-      "React.js",
-      "Node.js",
-      "mongoDB",
-      "Express.js",
-    ],
+    description: `Collaborated with the Frontend team to build responsive user interfaces using JavaScript, React, and Redux.
+  Engineered solutions for fetching prescriptions and triggering redirection modals while managing high request volumes efficiently.`,
+    technologies: ["Java", "JavaScript", "TypeScript", "React.js", "Redux"],
   },
 ];
 

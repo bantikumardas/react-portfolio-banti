@@ -62,9 +62,9 @@ const Technologies = () => {
                 "01. C/C++",
                 "02. DSA",
                  "03. Java",
-                "04. Python",
                 "05. JavaScript",
                 "06. MySQL",
+                "10. CI and CD Pipeline",
                 "07. MongoDB",
                 "08. Git & GitHub"
               ].map(skill => (
@@ -85,7 +85,8 @@ const Technologies = () => {
               {[
                 "09. HTML & CSS",
                 "10. ReactJS",
-                "11. ReduxJS",
+               
+                "11. Devops",
                 "12. NodeJS",
                 "13. ExpressJS",   
                 "14. Kafka",
