@@ -18,7 +18,7 @@ const Contact = () => {
           transition={{ duration: 1 }}
           className="my-4"
         >
-          Aayush Kumar Gupta
+          Banti Kumar Das
         </motion.p>
         <motion.p 
           whileInView={{ opacity: 1, x: 0 }} 
@@ -34,7 +34,7 @@ const Contact = () => {
           transition={{ duration: 1 }}
           className="my-4"
         >
-          📱 +91 8824453834
+          📱 +91 8409157529
         </motion.p>
         <motion.p 
           whileInView={{ opacity: 1, x: 0 }} 
@@ -42,7 +42,7 @@ const Contact = () => {
           transition={{ duration: 1 }}
           className="my-4"
         >
-          📧 aayushkgupta786@gmail.com
+          📧 bantikumardas43@gmail.com
         </motion.p>
         <motion.p 
           whileInView={{ opacity: 1, x: 0 }} 
@@ -50,7 +50,7 @@ const Contact = () => {
           transition={{ duration: 1 }}
           className="my-4"
         >
-          Jaipur, Rajasthan, India, 302018
+          Deoghar, Jharkhand, India, 815353
         </motion.p>
       </div>
       {/* Copyright Notice */}
@@ -60,7 +60,7 @@ const Contact = () => {
         transition={{ duration: 0.5, delay: 0.5 }} // Added delay for smoother entrance
         className="text-center mt-10 text-sm text-gray-500"
       >
-        © Copyright Aayushkg. All Rights Reserved
+        © Copyright Banti Kumar Das. All Rights Reserved
       </motion.div>
     </div>
   );

@@ -39,6 +39,7 @@
 import { RiReactjsLine } from "react-icons/ri"; 
 import { FaDatabase } from "react-icons/fa"; // For Data Structures & Algorithms
 import { SiMongodb } from "react-icons/si"; 
+import { SiSpringboot } from "react-icons/si";
 import { FaNodeJs } from "react-icons/fa";  
 import { SiExpress } from "react-icons/si";  // Correct icon for Express.js
 import { DiJavascript1 } from "react-icons/di";  // Corrected case
@@ -77,6 +78,14 @@ const Technologies = () => {
          animate= "animate"
           className="rounded-2xl border-4 border-neutral-800 p-4">
           <RiReactjsLine className="text-7xl text-cyan-400" />
+        </motion.div>
+
+        <motion.div 
+         variants ={inconVariants(2.5)} 
+         initial = "initial "
+         animate= "animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4">
+          <SiSpringboot className="text-7xl text-cyan-400" />
         </motion.div>
 
         <motion.div 

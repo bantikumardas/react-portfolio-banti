@@ -10,19 +10,16 @@ const Navbar = () => {
       </div>
     
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <a href="https://www.linkedin.com/in/aayush-kumar-gupta-7a6466214/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+        <a href="https://www.linkedin.com/in/banti-kumar-das-aaaa6521a/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
           <FaLinkedin />
         </a> 
-        <a href="https://github.com/Aayushgupta24?tab=repositories" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+        <a href="https://github.com/bantikumardas" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
           <FaGithub />
         </a> 
-        <a href="https://x.com/AayushK88649573" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
-          <FaTwitter />
-        </a>
-        <a href="https://auth.geeksforgeeks.org/user/aayushkggfg/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank" rel="noopener noreferrer" aria-label="GeeksforGeeks">
+        <a href="https://www.geeksforgeeks.org/user/bantikumardas43/" target="_blank" rel="noopener noreferrer" aria-label="GeeksforGeeks">
           <SiGeeksforgeeks />
         </a>
-        <a href="https://leetcode.com/cap_America/" target="_blank" rel="noopener noreferrer" aria-label="CodeChef">
+        <a href="https://leetcode.com/u/bantikumar/" target="_blank" rel="noopener noreferrer" aria-label="CodeChef">
           <FaCode />
         </a>
       </div>

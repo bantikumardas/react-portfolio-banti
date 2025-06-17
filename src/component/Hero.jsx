@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants";
-import profilePic from "../assets/kevinRushProfile1.png";  // Ensure this is the correct path to Aayush's profile picture
+import profilePic from "../assets/ProfileImage.jpg";  // Ensure this is the correct path to Aayush's profile picture
 import { motion } from "framer-motion";
 
 const container = (delay) => ({
@@ -26,7 +26,7 @@ const Hero = () => {
               className="pb-16 text-6xl font-thin tracking-tight lg:mt-12 lg:text-6xl"
             >
               {/* Reduced mt-16 to mt-12 */}
-              Aayush Kumar Gupta
+              Banti Kumar Das
             </motion.h1>
             <motion.span
               variants={container(0.5)}
@@ -54,7 +54,7 @@ const Hero = () => {
             animate={{ x: 0, opacity: 1 }}
             transition={{ duration: 1, delay: 1.2 }}
             src={profilePic}
-            alt="Aayush Kumar Gupta"
+            alt="Banti Kumar Ds"
             className="w-full h-auto max-w-[180px] md:max-w-[250px] lg:max-w-[300px] object-cover"
             style={{ height: 'auto', marginTop: '-20px' }} // Added negative margin to move the image upwards
           />
